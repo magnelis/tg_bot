@@ -1,1 +1,1 @@
-tken_bot = "5452832562:AAE_J5UtnJ-TtC1YiZAcseFzdfc0ZyyXXLY"
+tken_bot = "Вставьте свой токен"

@@ -6,7 +6,7 @@ from telebot import types
 
 bot = telebot.TeleBot(config.tken_bot)
 
-apiKey = "9005b1597fff4141a27edf5fa19e3112"
+apiKey = "Вставьте свой api"
 
 country = "ru"
 category = "technology"
